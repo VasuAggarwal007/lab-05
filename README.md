@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Vasu Aggarwal`
+- **CCID:** `aggarwa2`
 
 ## References and Resources
 
